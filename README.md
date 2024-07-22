@@ -2,7 +2,9 @@
 
 ```mermaid
 flowchart LR
-    A(Childhood) ---> B
-    B ---> C
-    C ---> A
+    A(Childhood) ---> B(Campus)
+    B ---> C(College)
+    C ---> D(Career)
+    D ---> E(Compensation)
+    E ---> A
 ```
