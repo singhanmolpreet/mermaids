@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart LR
-    A ---> B
+    A(Childhood) ---> B
     B ---> C
     C ---> A
 ```
