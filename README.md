@@ -1,5 +1,7 @@
 # mermaids
 
+## FlowChart Left to Right
+
 ```mermaid
 flowchart LR
     A ---> B
