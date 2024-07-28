@@ -14,11 +14,10 @@ flowchart LR
 
 ``` mermaid
 flowchart LR
-    A-- Hlo -->B
-    A-->C
-    B-->D
-    C-->D
-    D-->E 
+    WakeUp-- Brush Teeth -->B(EatBreakfast)
+    EatBreakfast-->Go To College
+    Exercise-->GoToWork
+    GoToWork-->ReturnHome
 ```
 
 
